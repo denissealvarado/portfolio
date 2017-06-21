@@ -43,37 +43,49 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
+          <td> an identifier  </td>
           <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-        </tr>
+          <td> MyFavoriteNumber= 13 <br>
+          MyFavoriteNumber + 1= 14</td>
+          <td>
+          <img src="https://barefootcas.org.uk/wp-content/uploads/2014/10/Variables_image-5_variable-commands.png"" alt="W3Schools.com" width="190" height="190"> 
+          </td>
+       
+       </tr>
+
 
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td>a sequence of instructions that is continually repeated </td>
+          <td>if I tell a person to run in a circle four times, they will run in a circle four times, then will stop   </td>
+          <td>for x in range (3): <br>
+          Bob.forward(50) <br>
+          Bob.left(160)
+          </td>
+          <td><img src="http://www.computhink.com.sg/wp-content/uploads/2016/08/Loop-repeat5.png" alt="W3Schools.com" width="190" height="190">   </td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
         <tr>
           <td><b>Conditionals</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td>Features which perform different actions depending on whether a person specified a boolean condition that evaluates to true or false  </td>
+          <td> If I cook dinner, then I will eat. If I do not cook dinner, I will not eat.  </td>
+          <td> if user_input == "stay in london":
+        print(stay_in_london)
+    elif user_input == "find companion":
+        print(find_companion)
+        done = True  </td>
+          <td> <img src="https://sites.google.com/site/doyoueventechbro/_/rsrc/1421633773636/software-development/scratch/conditionals%20scratch.jpg" width="200" height="200">  </td>
         </tr>
 
         <!-- Fill in the row for Functions -->
         <tr>
           <td><b>Functions</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td>an act  </td>
+          <td> tell a person to give you a donut, they will give you a donut  </td>
+          <td> print(start)  </td>
+          <td> <img src="https://bournetocode.com/projects/7-CS-lolcats/pages/img/Function_1.png" width="200" height="200">  </td>
         </tr>
 
       </table>
@@ -81,3 +93,4 @@
     
   </body>
 </html>
+
